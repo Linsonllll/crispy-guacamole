@@ -1,0 +1,1 @@
+console.log('Linson Website Loaded');
